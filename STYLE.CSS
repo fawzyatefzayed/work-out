@@ -1,0 +1,42 @@
+h1{
+color: red;
+font-size: 70px;
+text-align: center;
+}
+OR{
+background-color: cornflowerblue;
+text-align: center;
+color: indigo;
+}
+h2{
+color: red;
+font-size: 50px;
+text-align: center;
+}
+.PR1{
+color: blue;
+text-align: center;
+font-size: large;
+}
+h3{
+    color: crimson;
+    text-align: center;
+    font-size: large;
+}
+.HR{
+background-color: darkkhaki;
+}
+img{
+width: 500Px;
+height: 500px;
+}
+.PR2{
+color: blue;
+ text-align: right;
+font-size: medium;
+}
+.BO{
+  background-color: gold;
+
+
+}
